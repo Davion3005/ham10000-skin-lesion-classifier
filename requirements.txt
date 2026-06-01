@@ -1,0 +1,15 @@
+torch
+torchvision
+timm
+scikit-learn
+xgboost
+mlflow
+fastapi
+uvicorn[standard]
+gradio
+pandas
+numpy
+pillow
+matplotlib
+pyyaml
+python-multipart
