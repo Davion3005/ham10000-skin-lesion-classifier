@@ -1,0 +1,7 @@
+[project]
+name = "ham10000-skin-lesion-classifier"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
